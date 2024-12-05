@@ -12,3 +12,6 @@ Me, myself, and anyone else. It's my thoughts, my life, hell, you can even just 
 
 # Final Notes
 As I stated before, I've ridded this vault of all mentions of my friends names (as to protect their privacy), and removed my Daily Notes, to protect mine. I hope you enjoy wandering through this ever-growing garden of my thoughts (I'm not done with porting all my notes over, give it a week, and it should be like triple the size).
+
+## Here's a starting point.
+[[00 - Index/00 - MAIN PAGE|00 - MAIN PAGE]]
